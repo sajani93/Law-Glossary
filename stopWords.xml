@@ -1,0 +1,717 @@
+<root>
+    <stopWords>
+
+    <w>a</w>
+
+    <w>able</w>
+
+    <w>about</w>
+
+    <w>above</w>
+
+    <w>according</w>
+
+    <w>accordingly</w>
+
+    <w>across</w>
+
+    <w>actually</w>
+
+    <w>after</w>
+
+    <w>afterwards</w>
+
+    <w>again</w>
+
+    <w>against</w>
+
+    <w>ain't</w>
+
+    <w>all</w>
+
+    <w>allow</w>
+
+    <w>allows</w>
+
+    <w>almost</w>
+
+    <w>alone</w>
+
+    <w>along</w>
+
+    <w>already</w>
+
+    <w>also</w>
+
+    <w>although</w>
+
+    <w>always</w>
+
+    <w>am</w>
+
+    <w>among</w>
+
+    <w>amongst</w>
+
+    <w>an</w>
+
+    <w>and</w>
+
+    <w>another</w>
+
+        <w>any</w>
+        <w>anybody</w>
+    <w>anyhow</w>
+
+    <w>anyone</w>
+
+    <w>anything</w>
+
+    <w>anyway</w>
+
+    <w>anyways</w>
+
+    <w>anywhere</w>
+
+    <w>apart</w>
+
+    <w>appear</w>
+
+    <w>appreciate</w>
+
+    <w>appropriate</w>
+
+    <w>are</w>
+
+    <w>aren't</w>
+
+    <w>around</w>
+
+    <w>as</w>
+
+    <w>aside</w>
+
+    <w>ask</w>
+
+    <w>asking</w>
+
+    <w>associated</w>
+
+    <w>at</w>
+
+    <w>available</w>
+
+    <w>away</w>
+
+    <w>awfully</w>
+
+    <w>be</w>
+
+    <w>became</w>
+
+    <w>because</w>
+
+    <w>become</w>
+
+    <w>becomes</w>
+
+    <w>becoming</w>
+
+    <w>been</w>
+
+    <w>before</w>
+
+    <w>beforehand</w>
+
+    <w>behind</w>
+
+    <w>being</w>
+
+    <w>believe</w>
+
+    <w>below</w>
+
+    <w>beside</w>
+
+    <w>besides</w>
+
+    <w>best</w>
+
+    <w>better</w>
+
+    <w>between</w>
+
+    <w>beyond</w>
+
+    <w>both</w>
+
+    <w>brief</w>
+
+    <w>but</w>
+
+    <w>by</w>
+
+    <w>come-on</w>
+
+    <w>come</w>
+
+    <w>came</w>
+
+    <w>can</w>
+
+    <w>can't</w>
+
+    <w>cannot</w>
+
+    <w>cant</w>
+
+    <w>cause</w>
+
+    <w>causes</w>
+
+    <w>certain</w>
+
+    <w>certainly</w>
+
+    <w>changes</w>
+
+    <w>clearly</w>
+
+    <w>co</w>
+
+    <w>com</w>
+
+    <w>come</w>
+
+    <w>comes</w>
+
+    <w>concerning</w>
+
+    <w>consequently</w>
+
+    <w>consider</w>
+
+    <w>considering</w>
+
+    <w>contain</w>
+
+    <w>containing</w>
+
+    <w>contains</w>
+
+    <w>corresponding</w>
+
+    <w>could</w>
+
+    <w>couldn't</w>
+
+    <w>course</w>
+
+    <w>currently</w>
+
+    <w>definitely</w>
+
+    <w>described</w>
+
+    <w>despite</w>
+
+    <w>did</w>
+
+    <w>didn't</w>
+
+    <w>different</w>
+
+    <w>do</w>
+
+    <w>does</w>
+
+    <w>doesn't</w>
+
+    <w>doing</w>
+
+    <w>don't</w>
+
+    <w>done</w>
+
+    <w>down</w>
+
+    <w>downwards</w>
+
+    <w>during</w>
+
+    <w>each</w>
+
+    <w>edu</w>
+
+    <w>eg</w>
+
+    <w>eight</w>
+
+    <w>either</w>
+
+    <w>else</w>
+
+    <w>elsewhere</w>
+
+    <w>enough</w>
+
+    <w>entirely</w>
+
+    <w>especially</w>
+
+    <w>et</w>
+
+    <w>etc</w>
+
+<w>even</w>
+<w>ever</w>
+<w>every</w>
+<w>everybody</w>
+<w>everyone</w>
+<w>everything</w>
+<w>everywhere</w>
+<w>ex</w>
+<w>exactly</w>
+<w>example</w>
+<w>except</w>
+<w>far</w>
+<w>few</w>
+<w>fifth</w>
+<w>first</w>
+<w>five</w>
+<w>followed</w>
+<w>following</w>
+<w>follows</w>
+<w>for</w>
+<w>former</w>
+<w>formerly</w>
+<w>forth</w>
+<w>four</w>
+<w>from</w>
+<w>further</w>
+<w>furthermore</w>
+<w>get</w>
+<w>gets</w>
+<w>getting</w>
+<w>given</w>
+<w>gives</w>
+<w>go</w>
+<w>goes</w>
+<w>going</w>
+<w>gone</w>
+<w>got</w>
+<w>gotten</w>
+<w>greetings</w>
+<w>had	</w>
+<w>hadn't</w>
+<w>happens</w>
+<w>hardly</w>
+<w>has</w>
+<w>hasn't</w>
+<w>have</w>
+<w>haven't</w>
+<w>having</w>
+<w>he</w>
+<w>he's</w>
+<w>hello</w>
+<w>help</w>
+<w>hence</w>
+<w>her</w>
+<w>here</w>
+<w>here's</w>
+<w>hereafter</w>
+<w>hereby</w>
+<w>herein</w>
+<w>hereupon</w>
+<w>hers</w>
+<w>herself</w>
+<w>hi</w>
+<w>him</w>
+<w>himself</w>
+<w>his</w>
+<w>hither</w>
+<w>hopefully</w>
+<w>how</w>
+<w>howbeit</w>
+<w>however</w>
+    <w>i</w>
+<w>i'd</w>
+<w>i'll</w>
+<w>i'm</w>
+<w>i've</w>
+<w>ie</w>
+<w>if</w>
+<w>ignored</w>
+<w>immediate</w>
+<w>in</w>
+<w>inasmuch</w>
+<w>inc</w>
+<w>indeed</w>
+<w>indicate</w>
+<w>indicated</w>
+<w>indicates</w>
+<w>inner</w>
+<w>insofar</w>
+<w>instead</w>
+<w>into</w>
+<w>inward</w>
+<w>is</w>
+<w>isn't</w>
+<w>it</w>
+<w>it'd</w>
+<w>it'll</w>
+<w>it's</w>
+<w>its</w>
+<w>itself</w>
+<w>just</w>
+<w>keep</w>
+<w>keeps</w>
+<w>kept</w>
+<w>know</w>
+<w>known</w>
+<w>knows</w>
+<w>last</w>
+<w>lately</w>
+<w>later</w>
+<w>latter</w>
+<w>latterly</w>
+<w>least</w>
+<w>less</w>
+<w>lest</w>
+<w>let</w>
+<w>let's</w>
+<w>like</w>
+<w>liked</w>
+<w>likely</w>
+<w>little</w>
+<w>look</w>
+<w>looking</w>
+<w>looks</w>
+<w>ltd</w>
+<w>mainly</w>
+<w>many</w>
+<w>may</w>
+<w>maybe</w>
+<w>me</w>
+<w>mean</w>
+<w>meanwhile</w>
+<w>merely</w>
+<w>might</w>
+<w>more</w>
+<w>moreover</w>
+<w>most</w>
+<w>mostly</w>
+<w>much</w>
+<w>must</w>
+<w>my</w>
+<w>myself</w>
+<w>name</w>
+<w>namely</w>
+<w>nd</w>
+<w>near</w>
+<w>nearly</w>
+<w>necessary</w>
+<w>need</w>
+<w>needs</w>
+<w>neither</w>
+<w>never</w>
+<w>nevertheless</w>
+
+<w>new</w>
+<w>next</w>
+<w>nine</w>
+<w>no</w>
+<w>nobody</w>
+<w>non</w>
+<w>none</w>
+<w>noone</w>
+<w>nor</w>
+<w>normally</w>
+<w>not</w>
+<w>nothing</w>
+<w>novel</w>
+<w>now</w>
+<w>nowhere</w>
+<w>obviously</w>
+<w>of</w>
+<w>off</w>
+<w>often</w>
+<w>oh</w>
+<w>ok</w>
+<w>okay</w>
+<w>old</w>
+<w>on</w>
+<w>once</w>
+<w>one</w>
+<w>ones</w>
+<w>only</w>
+<w>onto</w>
+<w>or</w>
+<w>other</w>
+<w>others</w>
+<w>otherwise</w>
+<w>ought</w>
+<w>our</w>
+<w>ours</w>
+<w>ourselves</w>
+<w>out</w>
+<w>outside</w>
+<w>over</w>
+<w>overall</w>
+<w>own</w>
+<w>particular</w>
+<w>particularly</w>
+<w>per</w>
+<w>perhaps</w>
+<w>placed</w>
+<w>please</w>
+<w>plus</w>
+<w>possible</w>
+<w>presumably</w>
+<w>probably</w>
+<w>provides</w>
+<w>que	</w>
+<w>quite</w>
+<w>qv</w>
+<w>rather</w>
+<w>rd</w>
+<w>re</w>
+<w>really</w>
+<w>reasonably</w>
+<w>regarding</w>
+<w>regardless</w>
+<w>regards</w>
+<w>relatively</w>
+<w>respectively</w>
+<w>right</w>
+<w>said</w>
+<w>same</w>
+<w>saw</w>
+<w>say</w>
+<w>saying</w>
+
+<w>says</w>
+<w>second</w>
+<w>secondly</w>
+<w>see</w>
+<w>seeing</w>
+<w>seem</w>
+<w>seemed</w>
+<w>seeming</w>
+<w>seems</w>
+<w>seen</w>
+<w>self</w>
+<w>selves</w>
+<w>sensible</w>
+<w>sent</w>
+<w>serious</w>
+<w>seriously</w>
+<w>seven</w>
+<w>several</w>
+<w>shall</w>
+<w>she</w>
+<w>should</w>
+<w>shouldn't</w>
+<w>since</w>
+<w>six</w>
+<w>so</w>
+<w>some</w>
+<w>somebody</w>
+<w>somehow</w>
+<w>someone</w>
+<w>something</w>
+<w>sometime</w>
+<w>sometimes</w>
+<w>somewhat</w>
+<w>somewhere</w>
+<w>soon</w>
+<w>sorry</w>
+<w>specified</w>
+<w>specify</w>
+<w>specifying</w>
+<w>still</w>
+<w>sub</w>
+<w>such</w>
+<w>sup</w>
+
+<w>sure</w>
+<w>t's</w>
+<w>take</w>
+<w>taken</w>
+<w>tell</w>
+<w>tends</w>
+<w>th</w>
+<w>than</w>
+<w>thank</w>
+<w>thanks</w>
+<w>thanx</w>
+<w>that</w>
+<w>that's</w>
+<w>thats</w>
+<w>the</w>
+<w>their</w>
+<w>theirs</w>
+<w>them</w>
+<w>themselves</w>
+<w>then</w>
+<w>thence</w>
+<w>there</w>
+<w>there's</w>
+<w>thereafter</w>
+<w>thereby</w>
+<w>therefore</w>
+<w>therein</w>
+<w>theres</w>
+<w>thereupon</w>
+<w>these</w>
+<w>they</w>
+<w>they'd</w>
+<w>they'll</w>
+<w>they're</w>
+<w>they've</w>
+<w>think</w>
+<w>third</w>
+<w>this</w>
+<w>thorough</w>
+<w>thoroughly</w>
+<w>those</w>
+<w>though</w>
+<w>three</w>
+<w>through</w>
+<w>throughout</w>
+<w>thru</w>
+<w>thus</w>
+<w>to</w>
+<w>together</w>
+<w>too</w>
+<w>took</w>
+<w>toward</w>
+<w>towards</w>
+<w>tried</w>
+<w>tries</w>
+<w>truly</w>
+<w>try</w>
+<w>trying</w>
+<w>twice</w>
+<w>two</w>
+<w>un</w>
+<w>under</w>
+<w>unfortunately</w>
+<w>unless</w>
+<w>unlikely</w>
+<w>until</w>
+<w>unto</w>
+<w>up</w>
+<w>upon</w>
+<w>us</w>
+<w>use</w>
+<w>used</w>
+<w>useful</w>
+<w>uses</w>
+<w>using</w>
+<w>usually</w>
+<w>value</w>
+<w>various</w>
+<w>very</w>
+<w>via</w>
+<w>viz</w>
+<w>vs</w>
+<w>want</w>
+<w>wants</w>
+<w>was</w>
+<w>wasn't</w>
+<w>way</w>
+<w>we</w>
+<w>we'd</w>
+<w>we'll</w>
+<w>we're</w>
+<w>we've</w>
+<w>welcome</w>
+<w>well</w>
+<w>went</w>
+<w>were</w>
+<w>weren't</w>
+<w>what</w>
+<w>what's</w>
+<w>whatever</w>
+<w>when</w>
+<w>whence</w>
+<w>whenever</w>
+<w>where</w>
+<w>where's</w>
+<w>whereafter</w>
+<w>whereas</w>
+<w>whereby</w>
+<w>wherein</w>
+
+<w>whereupon</w>
+
+<w>wherever</w>
+
+<w>whether</w>
+
+<w>which</w>
+
+<w>while</w>
+
+<w>whither</w>
+
+<w>who</w>
+
+<w>who's</w>
+
+<w>whoever</w>
+
+<w>whole</w>
+
+<w>whom</w>
+
+<w>whose</w>
+
+<w>why</w>
+
+<w>will</w>
+
+<w>willing</w>
+
+<w>wish</w>
+
+<w>with</w>
+
+<w>within</w>
+
+<w>without</w>
+
+<w>won't</w>
+
+<w>wonder</w>
+
+<w>would</w>
+
+<w>wouldn't</w>
+
+<w>yes</w>
+
+<w>yet</w>
+
+<w>you</w>
+
+<w>you'd</w>
+
+<w>you'll</w>
+
+<w>you're</w>
+
+<w>you've</w>
+
+<w>your</w>
+
+<w>yours</w>
+
+<w>yourself</w>
+
+<w>yourselves</w>
+
+<w>zero</w>
+    </stopWords>
+</root>

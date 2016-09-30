@@ -1,0 +1,109 @@
+<root>
+<Wwords>
+	<w>
+      		<name>WAIVE (RIGHTS)</name>
+                <meaning>A knowing and knowledgeable act to abandon, renounce or surrender a person's rights</meaning>
+	</w>
+	<w>
+      		<name>WAIVER OF IMMUNITY</name>
+      		<meaning>A means authorized by statute by which a witness, before testifying or producing evidence,may relinquish the right to refuse to testify against himself or herself, thereby making it possible for his or her testimony to be used against him or her in future proceedings</meaning>
+	</w>
+	<w>
+      		<name>WAIVER OF RIGHTS</name>
+      		<meaning>A knowing and knowledgeable act to abandon, renounce or surrender a person's rights</meaning>
+	</w>
+        <w>
+      		<name>WARRANT</name>
+                <meaning>Most commonly, a court order authorizing law enforcement officers to make an arrest or conduct a search. An affidavit seeking a warrant must establish probable cause by detailing the facts upon which the request is based</meaning>
+	</w>
+	<w>
+      		<name>WARRANT, ARREST</name>
+      		<meaning>An order of a court directing the sheriff or other officer to seize a particular person to answer a complaint of otherwise appear before the court</meaning>
+	</w>
+        <w>
+      		<name>WARRANT, SEARCH</name>
+                <meaning>A written order directing a law-enforcement officer to conduct a search of a specified place and to seize any evidence directly related to the criminal offense</meaning>
+	</w>
+	<w>
+      		<name>WEAPON</name>
+      		<meaning>An instrument used or designed to be used to threaten, injure or kill someone</meaning>
+	</w>
+        <w>
+      		<name>WEAPON, CONCEALED</name>
+                <meaning>A weapon that is carried by a person, but that is not visible by ordinary observation</meaning>
+	</w>
+	<w>
+      		<name>WEAPON, DEADLY</name>
+      		<meaning>A weapon, device, instrument, material or substance, whether animate or inanimate, which if used as it is used or intended to be used is known to be capable of producing death or serious bodily injury</meaning>
+	</w>
+        <w>
+      		<name>WEIGHT OF THE EVIDENCE</name>
+                <meaning>The persuasiveness of certain evidence when compared with other evidence that is presented</meaning>
+	</w>
+	<w>
+      		<name>WILL</name>
+      		<meaning>A legal declaration that disposes of a person's property when that person dies</meaning>
+	</w>
+        <w>
+      		<name>WILLFUL</name>
+                <meaning>A "willful" act is one done intentionally, as distinguished from an act done carelessly or inadvertently</meaning>
+	</w>
+	<w>
+      		<name>WITH PREJUDICE</name>
+      		<meaning>Applied to orders of judgment dismissing a case, meaning that the plaintiff is forever barred from bringing a lawsuit on the same claim or cause</meaning>
+	</w>
+        <w>
+      		<name>WITHOUT PREJUDICE</name>
+                <meaning>A claim or cause dismissed without prejudice may be the subject of a new lawsuit</meaning>
+	</w>
+	<w>
+      		<name>WITNESS</name>
+      		<meaning> One who testifies to what they have seen, heard or otherwise observed. 2. (v) To subscribe one's name to a document for the purpose of authenticity</meaning>
+	</w>
+        <w>
+      		<name>WITNESS STAND</name>
+                <meaning>The space in the courtroom occupied by a witness while testifying</meaning>
+	</w>
+	<w>
+      		<name>WITNESS, DEFENSE</name>
+      		<meaning>A non-hostile witness that is called by the defense counsel to assist in proving the defense's case</meaning>
+	</w>
+        <w>
+      		<name>WITNESS, EXPERT</name>
+                <meaning>A witness who is qualified by knowledge, skill, experience, training or education to provide a scientific, technical or specialized opinion of the subject about which he or she is to testify. That knowledge must generally be such as is not normally possessed by the average person</meaning>
+	</w>
+	<w>
+      		<name>WITNESS, HOSTILE</name>
+      		<meaning>A witness whose relationship to the opposing party is such that his or her testimony may be prejudiced against that party. A witness declared to be hostile may be asked leading questions and is subject to cross examination by the party that called him or her</meaning>
+	</w>
+
+        <w>
+      		<name>WITNESS, MATERIAL</name>
+                <meaning>A witness who can give testimony relating to a particular matter that very few others, if any, can give</meaning>
+	</w>
+	<w>
+      		<name>WITNESS, PROSECUTION</name>
+      		<meaning>The person whose complaint commences a criminal prosecution and whose       testimony is mainly relied on to secure a conviction at the trial</meaning>
+	</w>
+
+        <w>
+      		<name>WORK FURLOUGH</name>
+                <meaning>A correctional program which allows inmates, primarily one's being readied for discharge, to leave the institution for the purpose of continuing regular employment during the daytime but reporting back on nights and weekends</meaning>
+	</w>
+
+	<w>
+      		<name>WORK RELEASE</name>
+                <meaning>A correctional program which allows inmates, primarily one's being readied for discharge, to leave the institution for the purpose of continuing regular employment during the daytime but reporting back on nights and weekends</meaning>
+	</w>
+
+	<w>
+      		<name>WRIT</name>
+      		<meaning>A court's written order commanding the addressee to do or refrain from doing some specified act</meaning>
+	</w>
+
+        <w>
+      		<name>WRIT OF EXECUTION</name>
+                <meaning>A writ to put in force the judgment or decree of a court</meaning>
+	</w>
+    </Wwords>
+</root >

@@ -1,0 +1,313 @@
+<root>
+   <Swords>
+	    <w>
+            <name>SANCTION</name>
+		    <meaning> A punitive act designed to secure enforcement by imposing a penalty for its violation. For example, a sanction may be imposed for failure to comply with discovery orders </meaning>
+	    </w>
+
+        <w>
+		    <name>SEALING</name>
+		    <meaning> The closure of court records to inspection, except to the parties </meaning>
+	    </w>
+
+        <w>
+		    <name>SEARCH AND SEIZURE</name>
+		    <meaning> A practice whereby a person or place is searched and evidence useful in the investigation and prosecution of a crime is seized or taken. The search is conducted after an order is issued by a judge </meaning>
+	    </w>
+
+        <w>
+		    <name>SEARCH WARRANT</name>
+		    <meaning> An order issued by a judge or magistrate commanding a sheriff, constable, or other officer to search a specified location </meaning>
+	    </w>
+
+        <w>
+		    <name>SECURED DEBT</name>
+		    <meaning> In bankruptcy proceedings, a debt is secured if the debtor gave the creditor a right to repossess the property or goods used as collateral </meaning>
+	    </w>
+
+        <w>
+		    <name>SELF-DEFENSE</name>
+		    <meaning> Claim that an act otherwise criminal was legally justifiable because it was necessary to protect a person or property from the threat or action of another </meaning>
+	    </w>
+
+        <w>
+		    <name>SELF-INCRIMINATION</name>
+		    <meaning> Acts or declarations by which one implicates oneself in a crime </meaning>
+	    </w>
+
+        <w>
+		    <name>SELF-PROVING WILL</name>
+		    <meaning> A will whose validity does not have to be testified to in court by the witnesses to it, because the witnesses executed an affidavit reflecting proper execution of the will prior to the maker's death. </meaning>
+	    </w>
+
+        <w>
+		    <name>SENTENCE</name>
+		    <meaning> The judgment formally pronounced by the court or judge upon the defendant after his or her conviction by imposing a punishment to be inflicted either in the form of a fine, incarceration or probation.  </meaning>
+	    </w>
+
+        <w>
+		    <name>SENTENCE REPORT</name>
+		    <meaning> A document containing background material on a convicted person. It is prepared to guide the judge in the imposition of a sentence. Sometimes called a pre-sentence report </meaning>
+	    </w>
+
+        <w>
+		    <name>SENTENCE, CONCURRENT</name>
+		    <meaning> Two or more sentences of jail time to be served simultaneously </meaning>
+	    </w>
+
+        <w>
+
+            <name>SENTENCE, CONSECUTIVE</name>
+		    <meaning> Two or more sentences of jail time to be served in sequence </meaning>
+
+        </w>
+
+        <w>
+		    <name>SENTENCE, SUSPENDED</name>
+		    <meaning> A sentence postponed in which the defendant is not required to serve time unless he or she commits another crime or violates a court-imposed condition </meaning>
+	    </w>
+
+       <w>
+		    <name>SENTENCING</name>
+		    <meaning> The post conviction stage in which the defendant is brought before the court for imposition of sentence.</meaning>
+	    </w>
+
+       <w>
+		    <name>SEPARATE MAINTENANCE</name>
+		    <meaning> Allowance ordered to be paid by one spouse to the other for support while the spouses are living apart but not divorced.</meaning>
+	    </w>
+
+	    <w>
+		    <name>SEPARATION</name>
+		    <meaning> An arrangement whereby a husband and wife live apart from each other while remaining married either by mutual consent or by a judicial order.</meaning>
+	    </w>
+
+       <w>
+		    <name>SEQUESTRATION OF WITNESSES</name>
+		    <meaning> Keeping all witnesses (except plaintiff and defendant) out of the courtroom except for their time on the stand, and cautioning them not to discuss their testimony with other witnesses. Also called separation of witnesses. This prevents a witness from being influenced by the testimony of a prior witness.</meaning>
+	    </w>
+
+       <w>
+		    <name>SERVE A SENTENCE</name>
+		    <meaning> The act of spending an allotted amount of time in a designated location such as a prison as punishment for the crime committed </meaning>
+	    </w>
+
+        <w>
+		    <name>SERVICE</name>
+		    <meaning> The delivery of a legal document, such as a complaint, summons, or subpoena, notifying a person of a lawsuit or other legal action taken against him or her. Service, which constitutes formal legal notice, must be made by an officially authorized person in accordance with the formal requirements of the applicable laws.</meaning>
+	    </w>
+
+        <w>
+		    <name>SERVICE OF PROCESS</name>
+		    <meaning> Notifying a person that he or she has been named as a party to a lawsuit or has been accused of some offense. Process consists of a summons, citation or warrant, to which a copy of the complaint is attached.</meaning>
+        </w>
+
+        <w>
+		    <name>SETTLEMENT</name>
+		    <meaning> An agreement between parties that dictates what is being received from one party to the other.</meaning>
+	    </w>
+
+        <w>
+		    <name>SETTLOR</name>
+		    <meaning> The person who sets up a trust. Also called the grantor </meaning>
+	    </w>
+
+        <w>
+		    <name>SEXUAL MOLESTATION</name>
+		    <meaning> Illegal sex acts performed against a minor by a parent, guardian, relative or acquaintance </meaning>
+	    </w>
+
+        <w>
+		    <name>SHERIFF</name>
+		    <meaning> Elected officer of a county whose job is to conserve peace within his or her territorial jurisdiction as well as aid in the criminal and civil court processes </meaning>
+	    </w>
+
+        <w>
+		    <name>SHOPLIFTING</name>
+		    <meaning> The willful taking and concealing of merchandise from a store or business establishment with the intention of using the goods for one's personal use without paying the purchase price.</meaning>
+	    </w>
+
+       <w>
+		    <name>SHOW CAUSE</name>
+		    <meaning> An order requiring a person to appear in court and present reasons why a certain order, judgment, or decree should not be issued.</meaning>
+	    </w>
+
+        <w>
+		    <name>SIDEBAR</name>
+		    <meaning> A conference between the judge and lawyers, usually in the courtroom, out of earshot of the jury and spectators </meaning>
+    	</w>
+
+        <w>
+		    <name>SLANDER</name>
+		    <meaning> False and defamatory spoken words tending to harm another's reputation, community standing, office, trade, business, or means of livelihood. See DEFAMATION </meaning>
+	    </w>
+
+       <w>
+	    	<name>SMALL CLAIMS COURT</name>
+		    <meaning> A county court that handles civil claims for amounts less than $5,00. People often represent themselves rather than hire an attorney </meaning>
+	    </w>
+
+        <w>
+		    <name>SODOMY</name>
+		    <meaning> Oral or anal copulation between humans, or between humans or animals </meaning>
+	    </w>
+
+        <w>
+		    <name>SOVEREIGN IMMUNITY</name>
+		    <meaning> The doctrine that the government, state or federal, is immune to lawsuit unless it gives its consent </meaning>
+	    </w>
+
+       <w>
+		    <name>SPECIFIC PERFORMANCE </name>
+		    <meaning> A remedy requiring a person who has breached a contract to perform specifically what he or she has agreed to do. Specific performance is ordered when damages would be inadequate compensation.</meaning>
+	    </w>
+
+       <w>
+		    <name>SPEEDY TRIAL</name>
+		    <meaning> The right of an accused to a speedy trial as guaranteed by the 6th Amendment of the United States Constitution </meaning>
+	    </w>
+
+       <w>
+		    <name>SPENDTHRIFT TRUST</name>
+		    <meaning> A trust set up for the benefit of someone who the grantor believes would be incapable of managing his or her own financial affairs </meaning>
+	    </w>
+
+       <w>
+		    <name>STANDARD OF PROOF</name>
+		    <meaning> There are essentially three standards of proof applicable in most court proceedings. In criminal cases, the offense must be proven beyond a reasonable doubt , the highest standard. In civil cases and neglect and dependency proceedings, the lowest standard applies by a mere preponderance of the evidence , (more likely than not). In some civil cases, and in juvenile proceedings such as a permanent termination of parental rights, an intermediate standard applies, proof by clear and convincing evidence.</meaning>
+	    </w>
+
+       <w>
+		    <name>STANDING</name>
+		    <meaning> The legal right to bring a lawsuit. Only a person with something at stake has standing to bring a lawsuit.</meaning>
+	    </w>
+
+       <w>
+		    <name>STATEMENT, CLOSING</name>
+		    <meaning> The final statements by the attorneys to the jury or court summarizing the evidence that they have established and the evidence that the other side has failed to establish. Also known as closing argument </meaning>
+	    </w>
+
+        <w>
+		    <name>STATEMENT, OPENING</name>
+		    <meaning> Outline or summary of the nature of the case and of the anticipated proof presented by the attorney to the jury before any evidence is submitted. Also known as opening argument </meaning>
+	    </w>
+
+       <w>
+		    <name>STATUS OFFENDERS</name>
+		    <meaning> Youths charged with the status of being beyond the control of their legal guardian or are habitually disobedient, truant from school, or have committed other acts that would not be a crime if committed by an adult. They are not delinquents (in that they have not committed a crime), but are rather persons in need of supervision, minors in need of supervision, or children in need of supervision, depending on the state in which they live. Status offenders are placed under the supervision of the juvenile court. See PERSON IN NEED OF SUPERVISION.</meaning>
+	    </w>
+
+       <w>
+		    <name>STATUTE</name>
+		    <meaning> A formal, written statement by legislature declaring, commanding, or prohibiting something </meaning>
+	    </w>
+
+       <w>
+		    <name>STATUTE OF LIMITATIONS</name>
+		    <meaning>The time within a plaintiff must begin a lawsuit (in civil cases) or a prosecutor must bring charges (in criminal cases). There are different statutes of limitations at both the federal and state levels for different kinds of lawsuits or crimes</meaning>
+	    </w>
+
+       <w>
+		    <name>STATUTORY CONSTRUCTION </name>
+		    <meaning> Process by which a court seeks to interpret the meaning and scope of legislation </meaning>
+	    </w>
+
+       <w>
+		    <name>STATUTORY LAW</name>
+		    <meaning> Law enacted by the legislative branch of government, as distinguished from case law or common law </meaning>
+	    </w>
+
+    	<w>
+	    	<name>STATUTORY RAPE</name>
+		    <meaning> Unlawful sexual intercourse with a person under the age of 18, regardless of whether they consent to the act </meaning>
+	    </w>
+
+    	<w>
+		    <name>STAY</name>
+		    <meaning> The act of stopping a judicial proceeding by order of the court </meaning>
+	    </w>
+
+       <w>
+		    <name>STIPULATE</name>
+		    <meaning> An agreement by attorneys on both sides of a civil or criminal case about some aspect of the case; e.g., to extend the time to answer, to adjourn the trial date, or to admit certain facts at the trial </meaning>
+	    </w>
+
+       <w>
+		    <name>STRICT LIABILITY</name>
+		    <meaning> A concept applied by courts in product liability cases in which a seller is liable for any and all defective or hazardous products which unduly threaten a consumer's personal safety </meaning>
+	    </w>
+
+       <w>
+		    <name>STRIKE</name>
+		    <meaning> To remove (as a prospective juror or expunge (from the record). Also an organized work stoppage by a group of workers for the purpose of securing from employer just wages and benefits.</meaning>
+	    </w>
+
+       <w>
+		    <name>SUBMIT</name>
+		    <meaning> To yield to the will of another </meaning>
+	    </w>
+
+       <w>
+		    <name>SUBPOENA</name>
+		    <meaning> An order of the court which requires a person to be present at a certain time and place to give testimony upon a certain matter. Failure to appear may be punishable as a contempt of court </meaning>
+	    </w>
+
+       <w>
+		    <name>SUBPOENA DUCES TECUM</name>
+		    <meaning> A court order requiring persons to appear and with them specific documents, records, or other things as specified. SUBSTANTIVE LAW - The law dealing with rights, duties, and liabilities, as contrasted with procedural law , which governs the technical aspects of enforcing civil or criminal laws.</meaning>
+	    </w>
+
+       <w>
+		    <name>SUE</name>
+		    <meaning> To commence legal proceedings for recovery of a right. SUIT - Any proceeding by one person or persons against another in a court of law.</meaning>
+	    </w>
+
+       <w>
+		    <name>SUMMARY JUDGMENT</name>
+		    <meaning> A decision made on the basis of statements and evidence presented for the record without a trial. It is used when there is no dispute as to the facts of the case, and one party is entitled to judgment as a matter of law.</meaning>
+	    </w>
+
+       <w>
+		    <name>SUMMONS</name>
+		    <meaning> A notice to a defendant that he or she has been sued or charged with a crime and is required to appear in court. A jury summons requires the person receiving it to report for possible jury duty.</meaning>
+	    </w>
+
+       <w>
+		    <name>SUPPORT TRUST</name>
+		    <meaning> A trust that instructs the trustee to spend only as much income and principal (the assets held in the trust) as needed for the beneficiary's support </meaning>
+	    </w>
+
+       <w>
+		    <name>SUPPRESS</name>
+		    <meaning> To forbid the use of evidence at a trial because it is improper or was improperly obtained. See also EXCLUSIONARY RULE.</meaning>
+	    </w>
+
+       <w>
+		    <name>SUPPRESSION HEARING</name>
+		    <meaning> A hearing on a criminal defendant's motion to prohibit the prosecutor's use of evidence alleged to have been obtained in violation of the defendant's rights. This hearing is held outside of the presence of the jury, either prior to or at trial. The judge must rule as a matter of law on the motion.
+</meaning>
+
+    	</w>
+
+       <w>
+		    <name>SURETY BOND</name>
+		    <meaning> A bond purchased at the expense of the estate to insure the executor's proper performance. Often called a fidelity bond.</meaning>
+	    </w>
+
+        <w>
+		    <name>SURVIVORSHIP</name>
+		    <meaning> The right of a person surviving the death of a co-owner to take sole ownership of property in which he or she previously held a joint interest. Another name for joint tenancy. </meaning>
+	    </w>
+
+       <w>
+		    <name>SUSTAIN</name>
+		    <meaning> To maintain, to affirm, to approve </meaning>
+	    </w>
+
+       <w>
+		    <name>SWEAR</name>
+		    <meaning> To put to oath and declare as truth </meaning>
+	    </w>
+
+ </Swords>
+</root>

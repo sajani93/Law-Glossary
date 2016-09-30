@@ -1,0 +1,457 @@
+<root>
+    <Cwords>
+        <w>
+            <name>CALENDAR</name>
+            <meaning>List of cases scheduled for hearing in court</meaning>
+       </w>
+        <w>
+          <name>CALLING THE DOCKET</name>
+            <meaning>The public calling of the docket or list of causes at commencement of term of court, for setting a time for trial or entering orders</meaning>
+       </w>
+        <w>
+          <name>CAPITAL CASE</name>
+            <meaning>A criminal case in which the allowable punishment includes death</meaning>
+       </w>
+        <w>
+          <name>CAPITAL CRIME</name>
+            <meaning>A crime punishable by death</meaning>
+       </w>
+        <w>
+          <name>CAPITAL PUNISHMENT</name>
+            <meaning>Punishment by death for capital crimes. Death penalty</meaning>
+       </w>
+        <w>
+          <name>CAPTION</name>
+            <meaning>The heading on a legal document listing the parties, the court, the case number, and related information</meaning>
+       </w>
+        <w>
+          <name>CASE</name>
+            <meaning>A general term for an action, cause, suit, or controversy brought before the court for resolution</meaning>
+       </w>
+        <w>
+          <name>CASE LAW</name>
+            <meaning>Law established by previous decisions of appellate courts, particularly the Supreme Court</meaning>
+       </w>
+        <w>
+          <name>CASE NUMBER</name>
+            <meaning>See DOCKET NUMBER</meaning>
+       </w>
+        <w>
+          <name>CAUSATION</name>
+            <meaning>The act which produces an effect</meaning>
+        </w>
+        <w>
+          <name>CAUSE</name>
+            <meaning>A lawsuit, litigation, or action. Any question, civil or criminal, litigated or contested before a court of justice</meaning>
+       </w>
+        <w>
+          <name>CAUSE OF ACTION</name>
+            <meaning>The facts that give rise to a lawsuit or a legal claim</meaning>
+       </w>
+        <w>
+          <name>CEASE AND DESIST ORDER</name>
+            <meaning>An order of an administrative agency or court prohibiting a person or business from continuing a particular course of conduct</meaning>
+       </w>
+        <w>
+          <name>CERTIFICATION</name>
+            <meaning>1. Written attestation. 2. Authorized declaration verifying that an instrument is a true and correct copy of the original </meaning>
+       </w>
+        <w>
+          <name>CHAIN OF CUSTODY</name>
+            <meaning>An accounting for the whereabouts of the tangible evidence from the moment it is received in custody until it is offered in evidence in court</meaning>
+       </w>
+        <w>
+          <name>CHALLENGE</name>
+            <meaning>An objection, such as when an attorney objects at a hearing to the seating of a particular person on a civil or criminal jury</meaning>
+       </w>
+        <w>
+          <name>CHALLENGE FOR CAUSE</name>
+            <meaning>Objection to the seating of a particular juror for a stated reason (usually bias or prejudice for or against one of the parties in the lawsuit). The judge has the discretion to deny the challenge. This differs from peremptory challenge</meaning>
+       </w>
+        <w>
+          <name>CHALLENGE TO THE ARRAY</name>
+            <meaning>Questioning the qualifications of an entire jury panel, usually on the ground of partiality or some fault in the process of summoning the panel</meaning>
+       </w>
+        <w>
+          <name>CHAMBERS</name>
+            <meaning>A judge's private office. A hearing in chambers takes place in the judge's office outside of the presence of the jury and the public</meaning>
+       </w>
+        <w>
+          <name>CHANGE OF VENUE</name>
+            <meaning>-Moving a lawsuit or criminal trial to another place for trial</meaning>
+       </w>
+        <w>
+          <name>CHARACTER EVIDENCE</name>
+            <meaning>The testimony of witnesses who know the general character and reputation of a person in the community in which he or she lives. It may be considered by the jury in a dual respect: 1) as substantive evidence upon the theory that a person of good character and reputation is less likely to commit a crime than one who does not have a good character and reputation, and 2) as corroborative evidence in support of a witness's testimony as bearing upon credibility</meaning>
+       </w>
+        <w>
+          <name>CHARGE</name>
+            <meaning>A formal allegation, as a preliminary step in prosecution, that a person has committed a specific offense, which is recorded in a complaint, information or indictment. To charge; To accuse. See INSTRUCTIONS </meaning>
+        </w>
+        <w>
+          <name>CHARGE TO THE JURY</name>
+            <meaning>The judge's instructions to the jury concerning the law that applies to the facts of the case on trial</meaning>
+       </w>
+        <w>
+          <name>CHARGING DOCUMENT</name>
+            <meaning>A written accusation alleging a defendant has committed an offense. Includes a citation, an indictment, information, and statement of charges</meaning>
+       </w>
+         <w>
+            <name>CHIEF JUDGE</name>
+            <meaning>Presiding or Administrative Judge in a court</meaning>
+     </w>
+         <w>
+          <name>CHILD ABUSE</name>
+            <meaning>Any form of cruelty to a child's physical, moral, or mental well-being</meaning>
+       </w>
+         <w>
+          <name>CHILD MOLESTATION</name>
+            <meaning>Any form of indecent or sexual activity on, involving, or surrounding a child under the state's designated age</meaning>
+       </w>
+         <w>
+          <name>CHILD SUPPORT</name>
+            <meaning>The legal obligation of parents to contribute to the economic maintenance, including education, of their children. Money paid by one parent to another toward the expenses of the children of the marriage</meaning>
+       </w>
+        <w>
+          <name>CIRCUMSTANTIAL EVIDENCE</name>
+            <meaning>All evidence except eyewitness testimony. One example is physical evidence, such as fingerprints, from which an inference can be drawn</meaning>
+        </w>
+<w>
+          <name>CITATION</name>
+            <meaning>A reference to a source of legal authority. A direction to appear in court, as when a defendant is cited into court, rather than arrested</meaning>
+       </w>
+ <w>
+          <name>CIVIL ACTION</name>
+            <meaning>Noncriminal case in which one private individual or business sues another to protect, enforce, or redress private or civil rights</meaning>
+       </w>
+
+        <w>
+          <name>CIVIL CASE</name>
+            <meaning>A lawsuit brought to enforce, redress, or protect private rights or to gain payment for a wrong done to a person or party by another person or party. In general, all types of actions other than criminal proceedings</meaning>
+       </w>
+<w>
+          <name>CIVIL PROCEDURE</name>
+            <meaning>The rules and process by which a civil case is tried and appealed, including the preparations for trial, the rules of evidence and trial conduct, and the procedure for pursuing appeals</meaning>
+       </w>
+        <w>
+          <name>CLAIM</name>
+            <meaning>The assertion of a right to money or property</meaning>
+       </w>
+        <w>
+          <name>CLASS ACTION</name>
+            <meaning>A lawsuit brought by one or more persons on behalf of a larger group</meaning>
+       </w>
+        <w>
+          <name>CLEAR AND CONVINCING EVIDENCE</name>
+            <meaning>Standard of proof commonly used in civil lawsuits and in regulatory agency cases. It governs the amount of proof that must be offered in order for the plaintiff to win the case</meaning>
+       </w>
+
+        <w>
+          <name>CLEMENCY OR EXECUTIVE CLEMENCY</name>
+            <meaning>Act of grace or mercy by the president or governor to ease the consequences of a criminal act, accusation, or conviction. It may take the form of commutation or pardon</meaning>
+       </w>
+        <w>
+          <name>CLERK</name>
+            <meaning>Officer of the court who files pleadings, motions, judgments, etc., issues process, and keeps records of court proceedings</meaning>
+       </w>
+
+<w>
+          <name>CLOSING ARGUMENT</name>
+            <meaning>The act of entering or remaining illegally in a movable or immovable structure, vehicle or dwelling with intent to commit a felony</meaning>
+       </w>
+        <w>
+          <name>CODE</name>
+            <meaning>A collection, compendium, or revision of laws, rules, and regulations enacted by legislative authority</meaning>
+       </w>
+        <w>
+          <name>CODE OF CRIMINAL PROCEDURE</name>
+            <meaning>Body of federal or state law dealing with procedural aspects of trial for criminal cases</meaning>
+       </w>
+        <w>
+          <name>CODE OF FEDERAL REGULATIONS</name>
+            <meaning>The CFR is the annual listing of executive agency regulations published in the daily Federal Register, and the regulations issued previously which are still in effect. The CFR contains regulatory laws governing practice and procedure before federal administrative agencies</meaning>
+       </w>
+        <w>
+          <name>CODE OF PROFESSIONAL RESPONSIBILITY</name>
+            <meaning>The rules of conduct that govern the legal profession. The Code contains general ethical guidelines and specific rules written by the American Bar Association</meaning>
+        </w>
+        <w>
+          <name>CODICIL (kod'i-sil)</name>
+            <meaning>An amendment to a will</meaning>
+       </w>
+        <w>
+          <name>COLLATERAL</name>
+            <meaning>1. Property that is pledged as security against a debt. 2. A person belonging to the same ancestral stock (a relation), but not in a direct line of descent</meaning>
+       </w>
+        <w>
+          <name>COLLATERAL ATTACK</name>
+            <meaning>An attack on a judgment other than a direct appeal to a higher court</meaning>
+       </w>
+        <w>
+          <name>COMMISSIONER</name>
+            <meaning>A person who directs a commission; a member of a commission. The officer in charge of a department or bureau of a public service</meaning>
+       </w>
+        <w>
+            <name>COMMIT</name>
+            <meaning>1. To execute, perpetrate, or carry out an act. To commit a crime. 2. To send a person to prison, asylum, or reformatory by a court order</meaning>
+       </w>
+
+        <w>
+          <name>COMMITMENT</name>
+            <meaning>1. The action of sending a person to a penal or mental institution. 2. The order directing an officer to take a person to a penal or mental institution</meaning>
+       </w>
+        <w>
+           <name>COMMITMENT ORDER</name>
+            <meaning>A court order directing that an individual be kept in custody, usually in a penal or mental facility</meaning>
+       </w>
+         <w>
+          <name>COMMON LAW</name>
+            <meaning>The legal system that originated in England and is now in use in the United States. It is based on judicial decisions rather than legislative action</meaning>
+       </w>
+         <w>
+          <name>COMMUNITY PROPERTY</name>
+            <meaning>Property owned in common by husband and wife each having an undivided one-half interest by reason of their marital status. For example, the earnings of one spouse during the marriage do not belong solely to that spouse; the earnings are community property</meaning>
+       </w>
+        <w>
+          <name>COMMUTATION</name>
+            <meaning>The reduction of a sentence, such as from death to life imprisonment</meaning>
+       </w>
+        <w>
+          <name>COMPARATIVE NEGLIGENCE</name>
+            <meaning>A legal doctrine by which acts of the opposing parties are compared to determine the liability of each party to the other, making each liable only for his or her percentage of fault. See also CONTRIBUTORY NEGLIGENCE</meaning>
+       </w>
+        <w>
+          <name>COMPETENCY</name>
+            <meaning>Mental capacity of a person, especially with regard to his or her ability to stand trial and to assist counsel in his or her defense</meaning>
+       </w>
+         <w>
+          <name>COMPLAINANT</name>
+            <meaning>The party who complains or sues; one who applies to the court for legal redress. Also called the plaintiff</meaning>
+       </w>
+        <w>
+          <name>COMPLAINT</name>
+            <meaning>The legal document that usually begins a civil lawsuit. It states the facts and identifies the action the court is asked to take. 2. Formal written charge that a person has committed a criminal offense</meaning>
+       </w>
+        <w>
+          <name>COMPLY</name>
+            <meaning>To act in accordance with, to accept, to obey</meaning>
+       </w>
+        <w>
+          <name>COMPOSITE DRAWING</name>
+            <meaning>A picture of an alleged criminal created by a professional police artist using verbal descriptions given by the victim or a witness</meaning>
+       </w>
+        <w>
+          <name>CONCILIATION</name>
+            <meaning>A form of alternative dispute resolution in which the parties bring their dispute to a neutral third party, who helps lower tensions, improve communications, and explore possible solutions. Conciliation is similar to mediation, but it may be less formal</meaning>
+       </w>
+        <w>
+          <name>CONCURRENT JURISDICTION</name>
+            <meaning>The jurisdiction of two or more courts, each authorized to deal with the same subject matter</meaning>
+       </w>
+        <w>
+          <name>CONCURRENT SENTENCES</name>
+            <meaning>Sentences for more than one crime that are to be served at the same time, rather than one after the other. See also CUMULATIVE SENTENCES</meaning>
+       </w>
+        <w>
+          <name>CONDEMNATION</name>
+            <meaning>The legal process by which the government takes private land for public use, paying the owners a fair price. See EMINENT DOMAIN</meaning>
+       </w>
+        <w>
+          <name>CONDITIONAL RELEASE</name>
+            <meaning>A release from custody which imposes regulations on the activities and associations of the defendant. If a defendant fails to meet the conditions, the release is revoked</meaning>
+       </w>
+        <w>
+          <name>CONFESSION</name>
+            <meaning>Voluntary statement made by one who is a defendant in a criminal trial, which, if true, discloses his or her guilt</meaning>
+       </w>
+         <w>
+          <name>CONFISCATE</name>
+            <meaning>To seize or take private property for public use (the police confiscated the weapon)</meaning>
+       </w>
+        <w>
+          <name>CONFLICT OF INTEREST</name>
+            <meaning>1. A real or seeming incompatibility between one's private interests and one's public or fiduciary duties. 2. A real or seeming incompatibility between the interests of two of a lawyer's clients, such that the lawyer is disqualified from representing both clients if the dual representation adversely affects either client or if the clients do not consent</meaning>
+       </w>
+        <w>
+          <name>CONSECUTIVE SENTENCES</name>
+            <meaning>Successive sentences, one beginning at the expiration of another, imposed against a person convicted of two or more violations</meaning>
+        </w>
+        <w>
+          <name>CONSERVATORSHIP</name>
+            <meaning>Legal right given to a person to manage the property and financial affairs of a person deemed incapable of doing that for himself or herself. (Conservators have somewhat less responsibility than guardians. See also guardianship. )</meaning>
+       </w>
+        <w>
+          <name>CONSIDERATION</name>
+            <meaning>The cause, price, or impelling influence which induces a party to enter into a contract</meaning>
+       </w>
+        <w>
+          <name>CONSPIRACY</name>
+            <meaning>An agreement by two or more persons to commit an unlawful act; in criminal law, conspiracy is a separate offense from the crime that is the object of the conspiracy</meaning>
+       </w>
+        <w>
+          <name>CONSTITUTIONAL RIGHT</name>
+            <meaning>A right guaranteed by the U. S. Constitution, interpreted by the federal courts; also, a right guaranteed by some other constitution (such as a state constitution)</meaning>
+       </w>
+        <w>
+          <name>CONTEMPT OF COURT</name>
+            <meaning>The finding of the court that an act was committed with the intent of embarrassing the court, disobeying its lawful orders, or obstructing the administration of justice in some way</meaning>
+        </w>
+        <w>
+          <name>CONTINUANCE</name>
+            <meaning>The adjournment or postponement of a session, hearing, trial, or other proceeding until a future date</meaning>
+       </w>
+        <w>
+          <name>CONTRACT</name>
+            <meaning>A legally enforceable agreement between two or more competent parties made either orally or in writing</meaning>
+       </w>
+        <w>
+          <name>CONTRIBUTORY NEGLIGENCE</name>
+            <meaning>A legal doctrine that says if the plaintiff in a civil action for negligence also was negligent, he or she cannot recover damages from the defendant for the defendant's negligence. Most jurisdictions have abandoned the doctrine of contributory negligence in favor of comparative negligence</meaning>
+        </w>
+        <w>
+          <name>CONTROLLED SUBSTANCE</name>
+            <meaning>Any of the drugs whose production and use are regulated by law, including narcotics, stimulants, and hallucinogens</meaning>
+        </w>
+        <w>
+          <name>CONVICT</name>
+            <meaning>1. A person who has been found guilty of a crime and is serving a sentence for that crime; a prison inmate. 2. To find a person guilty of an offense by either a trial or a plea of guilty</meaning>
+       </w>
+        <w>
+          <name>CONVICTION</name>
+            <meaning>A determination of guilt which is the result of a trial or entry of a plea of guilty or nol contendere (no contest), regardless of whether adjudication of guilt or imposition of sentence was suspended, deferred, or withheld</meaning>
+       </w>
+        <w>
+          <name>CORONER</name>
+            <meaning>Public official charged with duty to make inquiry into the causes and circumstances of any death which occurs through violence or suddenly, with marks of suspicion</meaning>
+       </w>
+        <w>
+          <name>CORROBORATE</name>
+            <meaning>To support with evidence or authority; make more certain</meaning>
+       </w>
+        <w>
+          <name>CORROBORATING EVIDENCE</name>
+            <meaning>Supplementary evidence that tends to strengthen or confirm the initial evidence</meaning>
+       </w>
+        <w>
+          <name>CORROBORATION</name>
+            <meaning>Confirmation or support of a witness' statement or other fact</meaning>
+       </w>
+        <w>
+          <name>COSTS</name>
+            <meaning>An allowance for expenses in prosecuting or defending a suit. Ordinarily this does not include attorney fees</meaning>
+       </w>
+        <w>
+          <name>COUNSEL</name>
+            <meaning>A legal representative, attorney, lawyer</meaning>
+       </w>
+        <w>
+          <name>COUNSEL TABLE</name>
+            <meaning>The physical location where the defense and prosecuting parties are seated throughout the duration of the trial</meaning>
+        </w>
+        <w>
+          <name>COUNT</name>
+            <meaning>Each of the allegations of an offense listed in a charging document</meaning>
+       </w>
+        <w>
+          <name>COUNTERCLAIM</name>
+            <meaning>A claim presented by a defendant in a civil lawsuit against the plaintiff. In essence, a counter lawsuit within a lawsuit</meaning>
+       </w>
+        <w>
+          <name>COUNTERFEIT</name>
+            <meaning>To forge, to copy or imitate, without authority or right, and with the purpose to deceive or defraud, by passing off the copy as genuine</meaning>
+       </w>
+        <w>
+          <name>COUNTY JAIL</name>
+            <meaning>A building or structure used to house alleged criminals and/or convicted criminals of local area crimes</meaning>
+        </w>
+        <w>
+          <name>COURT</name>
+            <meaning>1. A unit of the judiciary authorized to decide disputed matters of fact, cases or controversies. 2. Figuratively, the judge or judicial officer. Judges sometimes use "court" to refer to themselves in the third person, as in "the court has read the briefs."</meaning>
+       </w>
+        <w>
+          <name>COURT ADMINISTRATOR</name>
+            <meaning>An elected constitutional officer serving as an arm of the court with respect to all court filings and related proceedings</meaning>
+       </w>
+      <w>
+          <name>COURT OF RECORD</name>
+            <meaning>A court in which the proceedings are recorded, transcribed, and maintained as permanent records</meaning>
+       </w>
+        <w>
+          <name>COURT ORDER</name>
+            <meaning>A written direction or command delivered by a court or judge</meaning>
+       </w>
+         <w>
+          <name>COURT REPORTER</name>
+            <meaning>A person who makes a word-for-word record of what is said in court and produces a transcript of the proceedings upon request</meaning>
+       </w>
+         <w>
+          <name>COURT APPEALS</name>
+            <meaning>In some states, the highest appellate court, where it is the Court's discretion whether to hear the case on appeal</meaning>
+       </w>
+
+        <w>
+          <name>COURTS JUVENILE and DEPENDENCY</name>
+            <meaning>Courts having jurisdiction over cases involving children under 18. Cases involve delinquent, dependent, and neglected children</meaning>
+       </w>
+        <w>
+          <name>COURT NIGHT</name>
+            <meaning>A specialized court that deals with cases during the late evening and early morning hours</meaning>
+       </w>
+        <w>
+          <name>COURT TRAFFIC</name>
+            <meaning>A specialized court that hears crimes dealing with traffic offenses</meaning>
+       </w>
+        <w>
+          <name>COURTROOM</name>
+            <meaning>The section of a courthouse in which the judge presides over the proceedings</meaning>
+       </w>
+        <w>
+          <name>CREDIBILITY</name>
+            <meaning>The quality in a witness which makes his or her testimony believable</meaning>
+       </w>
+
+        <w>
+          <name>CRIME</name>
+            <meaning>1. An act of omission or commission in violation of law which carries criminal consequences. 2. Criminal activity in general relating to a specific time or place</meaning>
+       </w>
+        <w>
+          <name>CRIMINAL</name>
+<meaning>1. One who has been convicted of a criminal offense. 2. That which is connected with the law of crimes; That which has the character of a crime (criminal justice; criminal intent)</meaning>
+   </w>
+<w>
+          <name>CRIMINAL CASE</name>
+<meaning>A case brought by the government against a person accused of committing a crime</meaning>
+</w>
+<w>
+          <name>CRIMINAL INSANITY</name>
+<meaning>Lack of mental capacity to do or abstain from doing a particular act; inability to distinguish right from wrong. State of mind rendering a defendant incapable of distinguishing between right and wrong, such that he or she cannot be held accountable for a crime</meaning>
+</w>
+<w>
+          <name>CRIMINAL RECORD</name>
+<meaning>1. Arrest record. A written account listing all the instances in which a person has been arrested. 2. A form completed by a police officer when a person is arrested</meaning>
+</w>
+
+
+<w>
+          <name>CRIMINAL SUMMONS</name>
+<meaning>An order commanding an accused to appear in court</meaning>
+</w>
+<w>
+          <name>CROSS-CLAIM</name>
+<meaning>A claim by codefendant or co-plaintiffs against each other and not against persons on the opposite side of the lawsuit</meaning>
+</w>
+<w>
+          <name>CROSS-EXAMINATION</name>
+<meaning>The questioning of a witness produced by the other side</meaning>
+</w>
+<w>
+          <name>CUMULATIVE SENTENCES</name>
+<meaning>Sentences for two or more crimes to run consecutively, rather than concurrently</meaning>
+</w>
+<w>
+          <name>CUSTODY</name>
+<meaning>1. The care and control of a thing or person for inspection, preservation, or security. 2. The care, control, and maintenance of a child awarded by a court to one of the parents in a divorce or separation proceeding. 3. The detention of a person by virtue of lawful process or authority</meaning>
+   </w>
+
+</Cwords>
+</root>

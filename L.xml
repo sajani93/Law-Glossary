@@ -1,0 +1,138 @@
+<root>
+    <Lword>
+        <w>
+      		<name>LARCENY</name>
+            <meaning> Stealing or theft </meaning>
+	    </w>
+
+        <w>
+            <name>LAW</name>
+            <meaning> The combination of those rules and principles of conduct promulgated by legislative authority, derived from court decisions, and established by local custom </meaning>
+	    </w>
+
+        <w>
+      		<name>LAW CLERKS</name>
+            <meaning> Persons trained in the law who assist judges in researching legal opinions </meaning>
+	    </w>
+
+        <w>
+      		<name>LAWSUIT</name>
+            <meaning> An action between two or more persons in the courts of law, not a criminal matter </meaning>
+	    </w>
+
+        <w>
+      		<name>LAY PERSON</name>
+            <meaning> One not trained in law </meaning>
+	    </w>
+
+        <w>
+      		<name>LEADING QUESTION</name>
+            <meaning> One which implicitly instructs the witness how to answer or which suggests to the witness the answer desired </meaning>
+	    </w>
+
+        <w>
+      		<name>LEASE</name>
+            <meaning> A contract by which owner of property grants to another the right to possess, use, and enjoy it for a specified period of time in exchange for payment of an agreed price (rent)</meaning>
+	    </w>
+
+        <w>
+      		<name>LEGAL AID</name>
+            <meaning> Professional legal services available usually to persons or organizations unable to afford legal representation </meaning>
+        </w>
+
+        <w>
+      		<name>LENIENCY</name>
+            <meaning> Recommendation for a sentence less than the maximum allowed </meaning>
+	    </w>
+
+        <w>
+      		<name>LESSER INCLUDED OFFENSE</name>
+            <meaning> A crime composed of some, but not all, of the elements of a greater crime; commission of the greater crime automatically includes commission of the lesser included offense </meaning>
+	    </w>
+
+        <w>
+      		<name>LETTERS OF ADMINISTRATION</name>
+            <meaning> Legal document issued by a court that shows an administrator's legal right to take control of assets in the deceased person's name </meaning>
+	    </w>
+        <w>
+      		<name>LETTERS TESTAMENTARY</name>
+            <meaning> Legal document issued by a court that shows an executor's legal right to take control of assets in the deceased person's name </meaning>
+	    </w>
+
+        <w>
+      		<name>LEVY</name>
+            <meaning> A seizure; the obtaining of money by legal process through seizure and sale of property </meaning>
+	    </w>
+
+        <w>
+      		<name>LEWD CONDUCT</name>
+            <meaning> Behavior that is obscene, lustful, indecent, vulgar </meaning>
+	    </w>
+
+        <w>
+      		<name>LIABILITY</name>
+            <meaning> Legal debts and obligations </meaning>
+	    </w>
+
+        <w>
+      		<name>LIABLE</name>
+            <meaning> Legally responsible </meaning>
+	    </w>
+
+        <w>
+      		<name>LIBEL</name>
+            <meaning> Published words or pictures that falsely and maliciously harm the reputation of a person. See DEFAMATION </meaning>
+	    </w>
+
+        <w>
+      		<name>LIE DETECTOR</name>
+            <meaning> A machine which records by a needle on a graph varying emotional disturbances when answering questions truly or falsely, as indicated by fluctuations in blood pressure, respiration, or perspiration </meaning>
+	    </w>
+
+        <w>
+      		<name>LIEN</name>
+            <meaning>A legal claim against another person's property as security for a debt. A lien does not convey ownership of the property, but gives the lien holder a right to have his or her debt satisfied out of the proceeds of the property if the debt is not otherwise paid</meaning>
+	    </w>
+
+        <w>
+      		<name>LIFE IMPRISONMENT</name>
+            <meaning> A type of sentence where the convicted criminal is ordered to spend the rest of his or her life in prison </meaning>
+	    </w>
+
+        <w>
+      		<name>LIMITED JURISDICTION</name>
+            <meaning> Refers to courts that are limited in the types of criminal and civil cases they may hear. For example, traffic violations generally are heard by limited jurisdiction courts.</meaning>
+	    </w>
+
+        <w>
+      		<name>LINEUP</name>
+            <meaning>A police identification procedure by which the suspect to a crime is exhibited, along with others, before the victim or witness to determine if the victim or witness can identify the suspect as the person who committed the crime</meaning>
+	    </w>
+
+        <w>
+      		<name>LITIGANT</name>
+            <meaning> A party to a lawsuit. Litigation refers to a case, controversy, or lawsuit </meaning>
+	    </w>
+
+        <w>
+      		<name>LITIGATION</name>
+            <meaning> A lawsuit </meaning>
+	    </w>
+
+        <w>
+      		<name>LIVING TRUST</name>
+            <meaning> A trust set up and in effect during the lifetime of the grantor. Also called inter vivos trust </meaning>
+	    </w>
+
+        <w>
+      		<name>LOITERING</name>
+            <meaning> To stand idly around, particularly in a public place </meaning>
+	    </w>
+
+        <w>
+      		<name>LYNCHING</name>
+            <meaning> Putting a person to death, usually by hanging, without legal authority </meaning>
+	    </w>
+
+    </Lword>
+</root>

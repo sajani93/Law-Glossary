@@ -1,0 +1,80 @@
+<root>
+   <Hwords>
+	<w>
+      		<name>HANDCUFFS</name>
+      		<meaning>Chains or shackles for the hands to secure prisoners. </meaning>
+	</w>
+    <w>
+      		<name>HARASSMENT</name>
+            <meaning>Words, gestures, and actions which tend to annoy, alarm, and verbally abuse another person. </meaning>
+	</w>
+
+    <w>
+      		<name>HARMLESS ERROR</name>
+            <meaning>An error committed during a trial that was corrected or was not serious enough to affect the outcome of a trial and therefore was not sufficiently harmful (prejudicial) to be reversed on appeal</meaning>
+	</w>
+
+       <w>
+      		<name>HEARING</name>
+            <meaning>A proceeding similar to a trial, without a jury, and usually of shorter duration </meaning>
+	</w>
+
+    <w>
+      		<name>HEARING, CONTESTED </name>
+            <meaning>A hearing held for the purpose of deciding issues or fact of law that both parties are disputing </meaning>
+	</w>
+
+    <w>
+      		<name>HEARING, PRELIMINARY</name>
+            <meaning>The hearing given to person accused of crime, by a magistrate or judge, to determine whether there is enough evidence to warrant the confinement and holding to bail the person accused </meaning>
+	</w>
+
+    <w>
+      		<name>HEARSAY</name>
+            <meaning>Statements by a witness who did not see or hear the incident in question but heard about it from someone else. Hearsay is usually not admissible as evidence in court</meaning>
+	</w>
+
+    <w>
+      		<name>HIT AND RUN</name>
+            <meaning> Crime in which the driver of a vehicle leaves the scene of an accident without identifying himself or herself</meaning>
+	</w>
+
+    <w>
+      		<name>HOLDING CELL </name>
+            <meaning>A temporary location that is meant to secure the accused while waiting for trial to begin or continue. HOLOGRAPHIC WILL - A will entirely written, dated, and signed by the testator in his/her own handwriting</meaning>
+	</w>
+
+    <w>
+      		<name>HOME MONITORING</name>
+            <meaning>An alternative to incarceration where an individual is confined to his or her home and monitored electronically</meaning>
+	</w>
+
+       <w>
+      		<name>HOMICIDE </name>
+            <meaning>The unlawful killing of one human being by another </meaning>
+	</w>
+
+    <w>
+      		<name>HOSPITAL WARRANT </name>
+            <meaning>A warrant that a court issues under Health-General Article Section 12-120 after a probable cause determination that the named defendant has violated a conditional release under Title 12 of the Health-General Article</meaning>
+	</w>
+
+    <w>
+      		<name>HOSTILE WITNESS</name>
+            <meaning>A witness whose testimony is not favorable to the party who calls him or her as a witness. A hostile witness may be asked leading questions and may be cross-examined by the party who calls him or her to the stand</meaning>
+	</w>
+
+    <w>
+      		<name>HUNG JURY</name>
+            <meaning>A jury whose members cannot agree upon a verdict</meaning>
+	</w>
+
+    <w>
+      		<name>HYPOTHETICAL QUESTION</name>
+            <meaning> An imaginary situation, incorporating facts previously admitted into evidence, upon which an expert witness is permitted to give an opinion as to a condition resulting from the situation </meaning>
+	</w>
+
+    </Hwords>
+
+
+</root>

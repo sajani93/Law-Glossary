@@ -1,0 +1,145 @@
+<root>
+    <Twords>
+	<w>
+      		<name>TANGIBLE</name>
+      		<meaning>Capable of being perceived, especially by the sense of touch</meaning>
+	</w>
+       	<w>
+      		<name>TANGIBLE PERSONAL PROPERTY MEMORANDUM (TPPM)</name>
+                <meaning>A legal document referred to in a will and used to guide the distribution of tangible personal property</meaning>
+	</w>
+
+	<w>
+      		<name>TEMPORARY RELIEF</name>
+                <meaning>Any form of action by a court granting one of the parties an order to protect its interest pending further action by the court</meaning>
+	</w>
+
+	<w>
+      		<name>TEMPORARY RESTRAINING ORDER</name>
+                <meaning>A judge's order forbidding certain actions until a full hearing can be held. Usually of short duration. Often referred to as a TRO</meaning>
+	</w>
+
+        <w>
+      		<name>TENANCY</name>
+                <meaning>An interest in realty which passes to the tenant</meaning>
+	</w>
+
+	<w>
+      		<name>TESTAMENT</name>
+                <meaning> A will disposing of personal property. See WILL</meaning>
+	</w>
+	<w>
+      		<name> TESTAMENTARY CAPACITY </name>
+                <meaning> The legal ability to make a will </meaning>
+	</w>
+	<w>
+      		<name> TESTAMENTARY TRUST </name>
+                <meaning> A trust set up by a will </meaning>
+	</w>
+	<w>
+      		<name> TESTATE </name>
+                <meaning> One who has died leaving a will or one who has made a will</meaning>
+	</w>
+	<w>
+      		<name> TESTATOR </name>
+                <meaning> Male person who makes a will </meaning>
+	</w>
+	<w>
+      		<name>TESTATRIX</name>
+      		<meaning> Female person who makes a will </meaning>
+	</w>
+        <w>
+      		<name> TESTIFY </name>
+                <meaning> To make a declaration under oath in a judicial inquiry for the purpose of establishing or proving some fact</meaning>
+	</w>
+
+	<w>
+      		<name> TESTIMONY </name>
+      		<meaning> The evidence given by a witness under oath. It does not include evidence from documents and other physical evidence</meaning>
+	</w>
+        <w>
+      		<name>THEFT</name>
+                <meaning> The act of stealing or the taking of property without the owner's        consent</meaning>
+	</w>
+	<w>
+      		<name> THIRD-PARTY</name>
+      		<meaning> A person, business, or government agency not actively involved in a legal proceeding, agreement, or transaction</meaning>
+	</w>
+        <w>
+      		<name>THIRD-PARTY CLAIM</name>
+                <meaning> An action by the defendant that brings a third party into a lawsuit</meaning>
+	</w>
+	<w>
+      		<name>TIME SERVED</name>
+      		<meaning> A sentence given by the court to a convicted criminal equal to the amount of time that the criminal was incarcerated during the trial</meaning>
+	</w>
+        <w>
+      		<name>TITLE</name>
+                <meaning> Legal ownership of property, usually real property or automobiles</meaning>
+	</w>
+	<w>
+      		<name>TORT</name>
+      		<meaning> A civil injury or wrong committed on the person or property of another. A tort is an infringement on the rights of an individual, but not founded on a contract. The most common tort action is a suit for damages sustained in an automobile accident</meaning>
+	</w>
+	<w>
+      		<name>TRANSCRIPT</name>
+      		<meaning> -A written, word-for-word record of what was said, either in a proceeding such as a trial or during some other conversation, as in a transcript of a hearing or oral deposition</meaning>
+	</w>
+        <w>
+      		<name>TRANSITORY</name>
+                <meaning> Actions are "transitory" when they might have taken place anywhere, and are "local" when they could occur only in some particular place</meaning>
+	</w>
+	<w>
+      		<name>TRESPASSING</name>
+                <meaning>Unlawful interference with one's person, property and rights</meaning>
+	</w>
+	<w>
+      		<name>TRIAL</name>
+      		<meaning>A judicial examination and determination of issues between parties before a court that has jurisdiction</meaning>
+	</w>
+	<w>
+      		<name>TRIAL COURT</name>
+      		<meaning> A trial where the jury is waived and the case is seen before the judge alone</meaning>
+	</w>
+        <w>
+      		<name>TRIAL, COURT (BENCH)</name>
+                <meaning>A trial where the jury is waived and the case is seen before the judge alone</meaning>
+	</w>
+	<w>
+      		<name>TRIAL, SPEEDY</name>
+      		<meaning>The Sixth Amendment of the Constitution guarantees the accused to an immediate trial in accordance with prevailing rules, regulations and proceedings of law</meaning>
+	</w>
+        <w>
+      		<name>TRIER OF FACT</name>
+                <meaning>Term includes the jury or the judge in a jury-waived trial, who have the obligation to make finding of fact rather than rulings of law</meaning>
+	</w>
+	<w>
+      		<name>TRO</name>
+<meaning>A judge's order forbidding certain actions until a full hearing can be held. Usually of short duration</meaning>
+	</w>
+        <w>
+      		<name>TRUE BILL</name>
+                <meaning>The endorsement made by a grand jury on a bill of indictment when it finds sufficient evidence for trial on the charge alleged</meaning>
+	</w>
+	<w>
+      		<name>TRUE TEST COPY</name>
+      		<meaning>A copy of a court document given under the clerk's seal, but not certified</meaning>
+	</w>
+        <w>
+      		<name>TRUST</name>
+                <meaning>A legal device used to manage real or personal property, established by one person (the grantor or settlor) for the benefit of another (the beneficiary). A third person (the trustee) or the grantor manages the trust</meaning>
+	</w>
+	<w>
+      		<name>TRUST AGREEMENT OR DECLARATION</name>
+      		<meaning>The legal document that sets up a living trust. Testamentary trusts are set up in a will</meaning>
+	</w>
+        <w>
+      		<name>TRUSTEE </name>
+                <meaning>The person or institution that manages the property put in trust</meaning>
+	</w>
+	<w>
+      		<name>TURNCOAT WITNESS</name>
+      		<meaning>A witness whose testimony was expected to be favorable, but who later becomes an adverse witness. See HOSTILE WITNESS</meaning>
+	</w>
+    </Twords>
+</root>

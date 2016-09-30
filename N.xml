@@ -1,0 +1,69 @@
+<root>
+    <Nwords>
+        <w>
+      		<name>NEGLIGENCE</name>
+            <meaning> Failure to exercise the degree of care that a reasonable person would use under the same circumstances </meaning>
+	    </w>
+
+        <w>
+      		<name>NEXT FRIEND</name>
+            <meaning> One acting without formal appointment as guardian for the benefit of an infant, a person of unsound mind not judicially declared incompetent, or other person under some disability </meaning>
+	    </w>
+
+        <w>
+      		<name>NO BILL</name>
+            <meaning> This phrase, endorsed by a grand jury on the written indictment submitted to it for its approval, means that the evidence was found insufficient to indict </meaning>
+	    </w>
+
+        <w>
+      		<name>NO-CONTEST CLAUSE</name>
+            <meaning> Language in a will that provides that a person who makes a legal challenge to the will's validity will be disinherited </meaning>
+	    </w>
+
+        <w>
+      		<name>NO-FAULT PROCEEDINGS</name>
+            <meaning> A civil case in which parties may resolve their dispute without a formal finding of error or fault </meaning>
+	    </w>
+
+        <w>
+      		<name>NOMINAL PARTY</name>
+            <meaning> One who is joined as a party or defendant merely because the technical rules of pleading require his presence in the record </meaning>
+        </w>
+
+        <w>
+      		<name>NON-CAPITAL CASE </name>
+            <meaning> A criminal case in which the allowable penalty does not include death </meaning>
+	    </w>
+
+        <w>
+      		<name>NOT GUILTY</name>
+            <meaning> The form of verdict in criminal cases where the jury acquits the defendant, finds him or her not guilty </meaning>
+	    </w>
+
+        <w>
+      		<name>NOT GUILTY BY REASON OF INSANITY</name>
+            <meaning> The jury or the judge must determine that the defendant, because of mental disease or defect, could not form the intent required to commit the offense </meaning>
+	    </w>
+
+        <w>
+      		<name>NOTICE</name>
+            <meaning> Formal notification to the party that has been sued in a civil case of the fact that the lawsuit has been filed. Also, any form of notification of a legal proceeding </meaning>
+	    </w>
+
+        <w>
+      		<name>NOTICE TO PRODUCE</name>
+            <meaning> In practice, a notice in writing requiring the opposite party to produce a certain described paper or document at the trial, or in the course of pre-trial discovery </meaning>
+        </w>
+
+        <w>
+      		<name>NULL AND VOID</name>
+            <meaning> Having no force, legal power to bind, or validity </meaning>
+	    </w>
+
+        <w>
+      		<name>NUNCUPATIVE WILL</name>
+            <meaning> An oral (unwritten) will </meaning>
+        </w>
+
+    </Nwords>
+</root>

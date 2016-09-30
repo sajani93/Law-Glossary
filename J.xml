@@ -1,0 +1,124 @@
+<root>
+    <Jwords>
+        <w>
+      		<name>JAIL</name>
+            <meaning> A place of confinement that is more than a police station and less than a prison. It is usually used to hold persons convicted of misdemeanors or persons awaiting trial </meaning>
+	    </w>
+
+        <w>
+      		<name>JEOPARDY</name>
+            <meaning>The peril in which an accused is placed when he is properly charged with a crime before a court. Jeopardy normally attaches when the petit jury is impaneled. After such time, the accused may not be released and tried at a later date for the same offense. Subject to exception. See DOUBLE JEOPARDY</meaning>
+	    </w>
+
+        <w>
+      		<name>JOIN</name>
+            <meaning> To unite, to combine, to enter into an alliance </meaning>
+	    </w>
+
+        <w>
+      		<name>JOINT AND SEVERAL LIABILITY</name>
+            <meaning> A legal doctrine that makes each of the parties who are responsible for an injury liable for all the damages awarded in a lawsuit if the other parties responsible cannot pay </meaning>
+	    </w>
+
+        <w>
+      		<name>JOINT TENANCY</name>
+            <meaning>A form of legal co-ownership of property (also known as survivorship ). At the death of one co-owner, the surviving co-owner becomes sole owner of the property. Tenancy by the entirety is a special form of joint tenancy between a husband and wife</meaning>
+	    </w>
+
+        <w>
+      		<name>JOINT VENTURE</name>
+            <meaning> An association of persons jointly undertaking some commercial enterprise. Unlike a partnership, a joint venture does not entail a continuing relationship among the parties </meaning>
+	    </w>
+
+        <w>
+      		<name>JOYRIDING</name>
+            <meaning> The illegal taking of an automobile without intent to deprive the owner permanently of the vehicle, often involving reckless driving </meaning>
+	    </w>
+
+        <w>
+      		<name>JUDGE</name>
+            <meaning> An elected or appointed public official with authority to hear and decide cases in a court of law </meaning>
+	    </w>
+
+        <w>
+      		<name>JUDGMENT</name>
+            <meaning> The final decision of the court, resolving the dispute; an opinion; an award of damages </meaning>
+	    </w>
+
+        <w>
+      		<name>JUDICIAL NOTICE</name>
+            <meaning> A court's recognition of the truth of basic facts without formal evidence </meaning>
+	    </w>
+
+        <w>
+      		<name>JUDICIAL REVIEW</name>
+            <meaning> The authority of a court to review the official actions of other branches of government. Also, the authority to declare unconstitutional the actions of other branches </meaning>
+	    </w>
+
+        <w>
+      		<name>JURISDICTION</name>
+            <meaning>1. The legal authority of a court to hear and decide a case. 2. The geographic area over which the court has authority to decide cases.</meaning>
+        </w>
+
+        <w>
+      		<name>JURISPRUDENCE </name>
+            <meaning> The study of law and the structure of the legal system </meaning>
+	    </w>
+
+        <w>
+      		<name>JUROR</name>
+            <meaning> Member of the jury </meaning>
+	    </w>
+
+        <w>
+      		<name>JUROR, ALTERNATE </name>
+            <meaning> Additional juror impaneled in case of sickness or disability of another juror </meaning>
+	    </w>
+
+        <w>
+      		<name>JURY</name>
+            <meaning> A body of persons temporarily selected from the citizens of a particular district sworn to listen to the evidence in a trial and declare a verdict on matters of fact </meaning>
+	    </w>
+
+        <w>
+      		<name>JURY BOX</name>
+            <meaning> The specific place in the courtroom where the jury sits during the trial </meaning>
+	    </w>
+
+        <w>
+      		<name>JURY COMMISSIONER</name>
+            <meaning> The court officer responsible for choosing the panel of persons to serve as potential jurors for a particular court term </meaning>
+	    </w>
+
+        <w>
+      		<name>JURY FOREMAN</name>
+            <meaning> The juror who chairs the jury during deliberations and speaks for the jury in court when announcing the verdict </meaning>
+	    </w>
+
+        <w>
+      		<name>JURY TRIAL</name>
+            <meaning> Trial in which a jury decides issues of fact as opposed to trial only before a judge </meaning>
+	    </w>
+
+        <w>
+      		<name>JURY, HUNG </name>
+            <meaning> A jury which is unable to agree on a verdict after a suitable period of deliberation </meaning>
+    	</w>
+
+        <w>
+      		<name>JUSTICIABLE</name>
+            <meaning>Issues and claims capable of being properly examined in court </meaning>
+	    </w>
+
+        <w>
+      		<name>JUVENILE</name>
+            <meaning>A young person who has not yet attained the age at which he or she should be treated as an adult for purposes of criminal law and other legal matters </meaning>
+	    </w>
+
+        <w>
+      		<name>JUVENILE WAIVER</name>
+            <meaning> A procedure by which a charge(s) against a minor is transferred from a juvenile to circuit court </meaning>
+	    </w>
+
+  </Jwords>
+</root>

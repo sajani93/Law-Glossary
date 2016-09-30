@@ -1,0 +1,154 @@
+<root>
+    <Mwords>
+        <w>
+      		<name>MAGISTRATE</name>
+            <meaning> Judicial officer having strictly limited jurisdiction exercising some of the functions of a judge </meaning>
+    	</w>
+
+        <w>
+      		<name>MALFEASANCE</name>
+            <meaning> Evil doing, ill conduct; the commission of some act which is positively prohibited by law </meaning>
+	    </w>
+
+        <w>
+      		<name>MALICE</name>
+            <meaning> Ill will, hatred, or hostility by one person toward another which may prompt the intentional doing of a wrongful act without legal justification or excuse </meaning>
+	    </w>
+
+        <w>
+      		<name>MALICIOUS MISCHIEF</name>
+            <meaning> Willful destruction of property, from actual ill will or resentment toward its owner or possessor </meaning>
+	    </w>
+
+        <w>
+      		<name>MALICIOUS PROSECUTION</name>
+            <meaning> An action instituted with intention of injuring the defendant and without probable cause, and which terminates in favor of the person prosecuted </meaning>
+	    </w>
+
+        <w>
+      		<name>MALPRACTICE</name>
+            <meaning> Violation of a professional duty to act with reasonable care and in good faith without fraud or collusion. This term is usually applied to such conduct by doctors, lawyers, or accountants </meaning>
+        </w>
+
+        <w>
+      		<name>MANDATE</name>
+            <meaning> A judicial command or order proceeding from a court or judicial officer, directing the proper officer to enforce a judgment, sentence, or decree </meaning>
+	    </w>
+
+        <w>
+      		<name>MANSLAUGHTER, INVOLUNTARY</name>
+            <meaning> Unlawful killing of another, without malice, when the death is caused by some other unlawful act not usually expected to result in great bodily harm </meaning>
+	    </w>
+
+        <w>
+      		<name>MANSLAUGHTER, VOLUNTARY</name>
+            <meaning> Unlawful killing of another, without malice, when the act is committed with a sudden extreme emotional impulse </meaning>
+	    </w>
+
+        <w>
+      		<name>MATERIAL EVIDENCE</name>
+            <meaning> That quality of evidence which tends to influence the trier of fact because of its logical connection with the issue </meaning>
+	    </w>
+
+        <w>
+      		<name>MATERIAL WITNESS</name>
+            <meaning> In criminal trial, a witness whose testimony is crucial to either the defense or prosecution </meaning>
+	    </w>
+
+        <w>
+      		<name>MAYHEM</name>
+            <meaning> A malicious injury which disables or disfigures another </meaning>
+	    </w>
+
+        <w>
+      		<name>MEDIATION</name>
+            <meaning> A form of alternative dispute resolution in which the parties bring their dispute to a neutral third party, who helps them agree on a settlement </meaning>
+	    </w>
+
+        <w>
+      		<name>MEMORIALIZED</name>
+            <meaning> Having addressed any matter in writing </meaning>
+	    </w>
+
+        <w>
+      		<name>MENTAL HEALTH</name>
+            <meaning> The wellness of a person's state of mind </meaning>
+	    </w>
+
+        <w>
+      		<name>MERITS</name>
+            <meaning>Strict legal rights of the parties; a decision "on the merits" is one that reaches the right(s) of a party, as distinguished from disposition of a case on a ground not reaching the right(s) raised in an action; for example, entry of nolle prosequi before a criminal trial begins is a disposition other than on the merits, allowing trial on those charges at a later time without double jeopardy attaching; similarly, dismissal of a civil action on a preliminary motion raising a technicality, such as improper service of process, does not result in res judicata of an issue</meaning>
+	    </w>
+
+        <w>
+      		<name>MIRANDA RIGHTS</name>
+            <meaning>Requirement that police tell a suspect in their custody of his or her constitutional rights before they question him or her: specifically, the right to remain silent; that any statement made may be used against him or her; the right to an attorney; and if the person cannot afford an attorney, one will be appointed if he or she desires</meaning>
+        </w>
+
+        <w>
+      		<name>MISDEMEANOR</name>
+            <meaning> A lesser offense than a felony and generally punishable by fine or limited jail time, but not in a penitentiary </meaning>
+	    </w>
+
+        <w>
+      		<name>MISTRIAL</name>
+            <meaning> An invalid trial caused by some legal error. When a judge declares a mistrial, the trial must start again from the beginning, including the selection of a new jury </meaning>
+        </w>
+
+        <w>
+      		<name>MITIGATING CIRCUMSTANCES</name>
+            <meaning> Those which do not constitute a justification or excuse for an offense but which may be considered as reasons for reducing the degree of blame </meaning>
+	    </w>
+
+        <w>
+      		<name>MITIGATING FACTORS</name>
+            <meaning> Facts that do not constitute a justification or excuse for an offense but which may be considered as reasons for reducing the degree of blame </meaning>
+	    </w>
+
+        <w>
+      		<name>MODIFICATION</name>
+            <meaning> A change, alteration, or amendment which introduces new elements into the details, or cancels some of them, but leaves the general purpose and effect of the subject-matter intact </meaning>
+        </w>
+
+        <w>
+      		<name>MOOT</name>
+            <meaning> A moot case or a moot point is one not subject to a judicial determination because it involves an abstract question or a pretended controversy that has not yet actually arisen or has already passed. Mootness usually refers to a court's refusal to consider a case because the issue involved has been resolved prior to the court's decision, leaving nothing that would be affected by the court's decision.</meaning>
+	    </w>
+
+        <w>
+      		<name>MORAL TURPITUDE</name>
+            <meaning> Immorality. An element of crimes inherently bad, as opposed to crimes bad merely because they are forbidden by statute.</meaning>
+	    </w>
+
+        <w>
+      		<name>MOTION</name>
+            <meaning> Oral or written request made by a party to an action before, during, or after a trial asking the judge to issue a ruling or order in that party's favor </meaning>
+	    </w>
+
+        <w>
+      		<name>MOTION DENIED</name>
+            <meaning> Ruling or order issued by the judge denying the party's request </meaning>
+	    </w>
+
+        <w>
+      		<name>MOTION GRANTED</name>
+            <meaning> Ruling or order issued by the judge granting the party's request </meaning>
+	    </w>
+
+        <w>
+      		<name>MUGSHOT</name>
+            <meaning> Pictures taken after a suspect is taken into custody (booked), usually used as an official photograph by police officers </meaning>
+	    </w>
+
+        <w>
+      		<name>MULTIPLICITY OF ACTIONS</name>
+            <meaning> Numerous and unnecessary attempts to litigate the same issue.</meaning>
+	    </w>
+
+        <w>
+      		<name>MURDER</name>
+            <meaning>Murder is the killing of another human being without justification or valid excuse, and it is especially the unlawful killing of another human being with malice aforethought.</meaning>
+	    </w>
+
+    </Mwords>
+</root>
